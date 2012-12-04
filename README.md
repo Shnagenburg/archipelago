@@ -6,4 +6,4 @@ Archipelago Project
 Documentation
 -------------
 Wiki: http://archipelagogame.wikia.com
-GitHub: 
+GitHub: https://github.com/renwold/archipelago.git
