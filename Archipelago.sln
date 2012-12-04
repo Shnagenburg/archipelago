@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archipelago", "Archipelago\Archipelago\Archipelago.csproj", "{D9ED502F-018C-4944-9600-6BABD1108E64}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ArchipelagoContent", "Archipelago\ArchipelagoContent\ArchipelagoContent.contentproj", "{0815497A-EA2E-437A-990B-901139DE5050}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9ED502F-018C-4944-9600-6BABD1108E64}.Debug|x86.ActiveCfg = Debug|x86
+		{D9ED502F-018C-4944-9600-6BABD1108E64}.Debug|x86.Build.0 = Debug|x86
+		{D9ED502F-018C-4944-9600-6BABD1108E64}.Release|x86.ActiveCfg = Release|x86
+		{D9ED502F-018C-4944-9600-6BABD1108E64}.Release|x86.Build.0 = Release|x86
+		{0815497A-EA2E-437A-990B-901139DE5050}.Debug|x86.ActiveCfg = Debug|x86
+		{0815497A-EA2E-437A-990B-901139DE5050}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
