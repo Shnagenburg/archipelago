@@ -2,5 +2,3 @@ archipelago
 ===========
 
 Archipelago Project
-
-dasdijodas
